@@ -10,9 +10,7 @@ body {
    margin-bottom: 10px;
    
 }
-.item::marker{
-    
-}
+
 .main {
     position: absolute;
     top: 20%;
